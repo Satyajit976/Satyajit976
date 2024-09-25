@@ -3,6 +3,7 @@
 I'm a computer science student and deeply passionate to explore new technology and innovation<br>
 -Currently sharpening my problem-solving skills by tackling DSA challenges with Java.<br>
 -I am well-versed in Java along with data structures and algorithms and have a foundational understanding of Python <br>
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="" style="float: right;">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/satyajit-praharaj-b06596272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyajit-praharaj-b06596272" height="30" width="40" /></a>
